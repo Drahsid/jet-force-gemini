@@ -96,7 +96,7 @@ struct {
     /* 0x530 */ u16 unk_0x530;
     /* 0x532 */ u8 unk_0x532[2];
     /* 0x534 */ u8 dpadWeapon[4];
-} playerValueStruct; /* sizeof = 0x538 */
+} PlayerValueStruct; /* sizeof = 0x538 */
 
 #endif
 
