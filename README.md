@@ -1,4 +1,8 @@
 # Jet Force Gemini
+
+## Note
+Decomp related thing [here](https://github.com/Ryan-Myers/Jet-Force-Gemini)
+
 A WIP reverse engineering effort of Jet Force Gemeni (US) for the Nintendo 64.
 
 ## Contributing
